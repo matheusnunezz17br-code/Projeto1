@@ -1,7 +1,2 @@
 # Projeto1
-
-idade=int(input("Qual a sua idade?"))
-if idade>=18:
-    print("Aprovado")
-else:
-  print("Reprovado")
+Este é um sistema no qual o usuário deve ser maior de 18 anos para poder utilizar.
