@@ -1,7 +1,3 @@
-# Projeto1
+# Projeto 1
 
-idade=int(input("Qual a sua idade?"))
-if idade>=18:
-    print("Aprovado")
-else:
-  print("Reprovado")
+Basicamente, um projeto no qual funciona como um sistema que só permite ser acessado pelo usuário caso ele tenha 18 anos.
