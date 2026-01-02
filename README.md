@@ -6,7 +6,11 @@ Basicamente, um projeto no qual funciona como um sistema que só permite ser ace
 
 # Tecnologias
 
-Python 3.14
+Python 3.14.
+
+# Como rodar?
+
+Use programas como PyCharm ou outros do mesmo tipo e clique na função de run.
 
 # O que eu aprendi?
 
